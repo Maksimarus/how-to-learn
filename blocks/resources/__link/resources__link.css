@@ -1,4 +1,5 @@
 .resources__link {
+  display: block;
   max-width: 270px;
   width: 100%;
   height: 38px;
